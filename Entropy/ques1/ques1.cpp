@@ -1,4 +1,4 @@
-// occurence
+// occurence 
 
 #include <iostream>
 #include <string>
