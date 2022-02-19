@@ -1,0 +1,39 @@
+
+
+win_size : 2
+no of windows formed are  : 9
+
+Entropy 1: 0.332193
+Entropy 2: 0.332193
+Entropy 3: 0.332193
+Entropy 4: 0.332193
+Entropy 5: 0.332193
+Entropy 6: 0.332193
+Entropy 7: 0.332193
+Entropy 8: 0.332193
+Entropy 9: 0.332193
+
+
+win_size : 3
+no of windows formed are  : 8
+
+Entropy 1: 0.464386
+Entropy 2: 0.332193
+Entropy 3: 0.464386
+Entropy 4: 0.332193
+Entropy 5: 0.464386
+Entropy 6: 0.332193
+Entropy 7: 0.464386
+Entropy 8: 0.332193
+
+
+win_size : 4
+no of windows formed are  : 7
+
+Entropy 1: 0.464386
+Entropy 2: 0.464386
+Entropy 3: 0.464386
+Entropy 4: 0.464386
+Entropy 5: 0.464386
+Entropy 6: 0.464386
+Entropy 7: 0.464386

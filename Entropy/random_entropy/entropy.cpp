@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+
     ifstream read;
     read.open("test.csv");
 
@@ -18,24 +19,27 @@ int main()
 
     read.close();
 
-    // cout<<"size of csv file is : "<<csv_size<<endl;
+    cout<<"size of csv file is : "<<csv_size<<endl;
 
 
     read.open("test.csv");
     string s=""; //main string
 
-    while (read.good())
+    while (csv_size>=3)
     {
         string s2;
         s2.clear();
         read>>s2;
         s += s2;
+        csv_size--;
     }
-    // cout<<"sting s is : "<<s<<endl;
-    read.close();
+    cout<<"sting s is : "<<s<<endl;
+    
 
     int n=s.size();
     cout<<"size of string is : "<<n<<endl;
+
+
    
     /*
     int one=0,zero=0;
@@ -50,9 +54,18 @@ int main()
     // cout<<"no of ones are : "<<one<<endl;
     // cout<<"no of zeros are : "<<zero<<endl;
 
-    int win_size= n-99;
+
+    int win_size=0;
+
+
+    while(read.good()){
+    read>>win_size;
+    cout<<win_size<<endl;
+    
     // cout<<"Enter size of window : "; cin>>win_size;
-    int count=0;
+    
+    
+     int count=0;
     
     for (int i = 0; i < n; i++)
     {
@@ -60,10 +73,14 @@ int main()
         count++;
     }
 
-    cout<<"no of windows formed are  : "<<count<<endl;
+    // cout<<"no of windows formed are  : "<<count<<endl;
 
     // cout<<s<<endl;
     // int coun1=0;
+
+
+   
+
     double arr[count]={0};
     for (int i = 0; i < count; i++)
     {
@@ -87,7 +104,7 @@ int main()
             {
                  // cout<<"s1 is empty "<<endl;
                 
-                double entropy = ( -((temp_count / win_size) * log2f(temp_count / win_size)));
+                double entropy = ( -((temp_count / n) * log2f(temp_count / n)));
                 // cout<<"entropy "<<i+1<<": "<< entropy <<endl;
                 arr[i]=entropy;
                 
@@ -105,13 +122,22 @@ int main()
     // {
     //     cout<<arr[i]<<endl;
     // }
+    
+    
 
     ofstream wrt;
-    wrt.open("output.csv");
+    wrt.open("output.csv", ios::app);
+    wrt<<endl<<endl<<"win_size : "<<win_size<<endl;
+    wrt<<"no of windows formed are  : "<<count<<endl<<endl;
     for (int i = 0; i < count; i++)
     {
+        
         wrt <<"Entropy "<<i+1<<": "<< arr[i] <<endl;
     }
+
+    }
+    
+    
     
     
     

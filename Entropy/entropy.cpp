@@ -57,8 +57,8 @@ int main()
             if(j==(win_size-1))
             {
                  // cout<<"s1 is empty "<<endl;
-                double entropy = ( -((temp_count / n) * log2f(temp_count / n)));
-                cout<<"entropy "<<i<<": "<< entropy <<endl;
+                double entropy = ( -((temp_count / win_size) * log2f(temp_count / win_size)));
+                cout<<"entropy "<<i+1<<": "<< entropy <<endl;
             }
 
             
@@ -71,3 +71,4 @@ int main()
     return 0;
 
 }
+
