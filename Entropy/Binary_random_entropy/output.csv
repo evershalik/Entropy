@@ -1,0 +1,1292 @@
+
+
+------------SHANNON ENTROPY---------------
+
+Shannon entropy of 0 is : 0.0357151
+Shannon entropy of 1 is : 0.0278808
+Shannon entropy of 10 is : 0.0325137
+Shannon entropy of 100 is : 0.0369732
+Shannon entropy of 1000 is : 0.0230386
+Shannon entropy of 10000 is : 0.031209
+Shannon entropy of 100000 is : 0.0344444
+Shannon entropy of 1000000 is : 0.0305512
+Shannon entropy of 10000000 is : 0.027203
+Shannon entropy of 10000001 is : 0.031209
+Shannon entropy of 1000001 is : 0.0258339
+Shannon entropy of 10000010 is : 0.0357151
+Shannon entropy of 10000011 is : 0.0318631
+Shannon entropy of 100001 is : 0.0251425
+Shannon entropy of 1000010 is : 0.029224
+Shannon entropy of 10000100 is : 0.0325137
+Shannon entropy of 10000101 is : 0.0298896
+Shannon entropy of 1000011 is : 0.0244462
+Shannon entropy of 10000110 is : 0.0318631
+Shannon entropy of 10000111 is : 0.0363457
+Shannon entropy of 10001 is : 0.0251425
+Shannon entropy of 100010 is : 0.0350814
+Shannon entropy of 1000100 is : 0.0298896
+Shannon entropy of 10001000 is : 0.0350814
+Shannon entropy of 10001001 is : 0.0258339
+Shannon entropy of 1000101 is : 0.0318631
+Shannon entropy of 10001010 is : 0.0305512
+Shannon entropy of 10001011 is : 0.0344444
+Shannon entropy of 100011 is : 0.0251425
+Shannon entropy of 1000110 is : 0.0278808
+Shannon entropy of 10001100 is : 0.0305512
+Shannon entropy of 10001101 is : 0.0258339
+Shannon entropy of 1000111 is : 0.0344444
+Shannon entropy of 10001110 is : 0.0400669
+Shannon entropy of 10001111 is : 0.0363457
+Shannon entropy of 1001 is : 0.0305512
+Shannon entropy of 10010 is : 0.0305512
+Shannon entropy of 100100 is : 0.0278808
+Shannon entropy of 1001000 is : 0.0285545
+Shannon entropy of 10010000 is : 0.0350814
+Shannon entropy of 10010001 is : 0.0375977
+Shannon entropy of 1001001 is : 0.0331607
+Shannon entropy of 10010010 is : 0.027203
+Shannon entropy of 10010011 is : 0.0350814
+Shannon entropy of 100101 is : 0.0325137
+Shannon entropy of 1001010 is : 0.0350814
+Shannon entropy of 10010100 is : 0.027203
+Shannon entropy of 10010101 is : 0.0394538
+Shannon entropy of 1001011 is : 0.0338042
+Shannon entropy of 10010110 is : 0.031209
+Shannon entropy of 10010111 is : 0.0285545
+Shannon entropy of 10011 is : 0.0350814
+Shannon entropy of 100110 is : 0.0318631
+Shannon entropy of 1001100 is : 0.0318631
+Shannon entropy of 10011000 is : 0.0357151
+Shannon entropy of 10011001 is : 0.0251425
+Shannon entropy of 1001101 is : 0.0318631
+Shannon entropy of 10011010 is : 0.031209
+Shannon entropy of 10011011 is : 0.027203
+Shannon entropy of 100111 is : 0.0344444
+Shannon entropy of 1001110 is : 0.0305512
+Shannon entropy of 10011100 is : 0.0285545
+Shannon entropy of 10011101 is : 0.0382193
+Shannon entropy of 1001111 is : 0.0350814
+Shannon entropy of 10011110 is : 0.0344444
+Shannon entropy of 10011111 is : 0.0285545
+Shannon entropy of 101 is : 0.0350814
+Shannon entropy of 1010 is : 0.027203
+Shannon entropy of 10100 is : 0.0305512
+Shannon entropy of 101000 is : 0.0318631
+Shannon entropy of 1010000 is : 0.0305512
+Shannon entropy of 10100000 is : 0.0244462
+Shannon entropy of 10100001 is : 0.0350814
+Shannon entropy of 1010001 is : 0.0251425
+Shannon entropy of 10100010 is : 0.029224
+Shannon entropy of 10100011 is : 0.029224
+Shannon entropy of 101001 is : 0.0305512
+Shannon entropy of 1010010 is : 0.0331607
+Shannon entropy of 10100100 is : 0.0363457
+Shannon entropy of 10100101 is : 0.0344444
+Shannon entropy of 1010011 is : 0.0357151
+Shannon entropy of 10100110 is : 0.0285545
+Shannon entropy of 10100111 is : 0.0278808
+Shannon entropy of 10101 is : 0.029224
+Shannon entropy of 101010 is : 0.0285545
+Shannon entropy of 1010100 is : 0.0350814
+Shannon entropy of 10101000 is : 0.0298896
+Shannon entropy of 10101001 is : 0.0318631
+Shannon entropy of 1010101 is : 0.0251425
+Shannon entropy of 10101010 is : 0.0338042
+Shannon entropy of 10101011 is : 0.0265207
+Shannon entropy of 101011 is : 0.0258339
+Shannon entropy of 1010110 is : 0.0305512
+Shannon entropy of 10101100 is : 0.0285545
+Shannon entropy of 10101101 is : 0.0298896
+Shannon entropy of 1010111 is : 0.0325137
+Shannon entropy of 10101110 is : 0.0338042
+Shannon entropy of 10101111 is : 0.0375977
+Shannon entropy of 1011 is : 0.0344444
+Shannon entropy of 10110 is : 0.029224
+Shannon entropy of 101100 is : 0.0251425
+Shannon entropy of 1011000 is : 0.0338042
+Shannon entropy of 10110000 is : 0.0305512
+Shannon entropy of 10110001 is : 0.0369732
+Shannon entropy of 1011001 is : 0.0344444
+Shannon entropy of 10110010 is : 0.0357151
+Shannon entropy of 10110011 is : 0.0285545
+Shannon entropy of 101101 is : 0.0285545
+Shannon entropy of 1011010 is : 0.0223269
+Shannon entropy of 10110100 is : 0.0285545
+Shannon entropy of 10110101 is : 0.0298896
+Shannon entropy of 1011011 is : 0.029224
+Shannon entropy of 10110110 is : 0.0400669
+Shannon entropy of 10110111 is : 0.0331607
+Shannon entropy of 10111 is : 0.0208866
+Shannon entropy of 101110 is : 0.0325137
+Shannon entropy of 1011100 is : 0.0298896
+Shannon entropy of 10111000 is : 0.0298896
+Shannon entropy of 10111001 is : 0.0375977
+Shannon entropy of 1011101 is : 0.0331607
+Shannon entropy of 10111010 is : 0.0363457
+Shannon entropy of 10111011 is : 0.0375977
+Shannon entropy of 101111 is : 0.0331607
+Shannon entropy of 1011110 is : 0.0305512
+Shannon entropy of 10111100 is : 0.0357151
+Shannon entropy of 10111101 is : 0.029224
+Shannon entropy of 1011111 is : 0.031209
+Shannon entropy of 10111110 is : 0.027203
+Shannon entropy of 10111111 is : 0.0338042
+Shannon entropy of 11 is : 0.0325137
+Shannon entropy of 110 is : 0.0344444
+Shannon entropy of 1100 is : 0.0278808
+Shannon entropy of 11000 is : 0.0285545
+Shannon entropy of 110000 is : 0.031209
+Shannon entropy of 1100000 is : 0.0305512
+Shannon entropy of 11000000 is : 0.0331607
+Shannon entropy of 11000001 is : 0.04189
+Shannon entropy of 1100001 is : 0.0369732
+Shannon entropy of 11000010 is : 0.0325137
+Shannon entropy of 11000011 is : 0.0325137
+Shannon entropy of 110001 is : 0.0357151
+Shannon entropy of 1100010 is : 0.0325137
+Shannon entropy of 11000100 is : 0.0338042
+Shannon entropy of 11000101 is : 0.0265207
+Shannon entropy of 1100011 is : 0.0265207
+Shannon entropy of 11000110 is : 0.0357151
+Shannon entropy of 11000111 is : 0.0265207
+Shannon entropy of 11001 is : 0.0298896
+Shannon entropy of 110010 is : 0.0325137
+Shannon entropy of 1100100 is : 0.0298896
+Shannon entropy of 11001000 is : 0.0318631
+Shannon entropy of 11001001 is : 0.031209
+Shannon entropy of 1100101 is : 0.023745
+Shannon entropy of 11001010 is : 0.038838
+Shannon entropy of 11001011 is : 0.0298896
+Shannon entropy of 110011 is : 0.0338042
+Shannon entropy of 1100110 is : 0.0344444
+Shannon entropy of 11001100 is : 0.0382193
+Shannon entropy of 11001101 is : 0.029224
+Shannon entropy of 1100111 is : 0.029224
+Shannon entropy of 11001110 is : 0.0251425
+Shannon entropy of 11001111 is : 0.0344444
+Shannon entropy of 1101 is : 0.0357151
+Shannon entropy of 11010 is : 0.0285545
+Shannon entropy of 110100 is : 0.027203
+Shannon entropy of 1101000 is : 0.0265207
+Shannon entropy of 11010000 is : 0.0369732
+Shannon entropy of 11010001 is : 0.0338042
+Shannon entropy of 1101001 is : 0.0298896
+Shannon entropy of 11010010 is : 0.029224
+Shannon entropy of 11010011 is : 0.0285545
+Shannon entropy of 110101 is : 0.031209
+Shannon entropy of 1101010 is : 0.0325137
+Shannon entropy of 11010100 is : 0.029224
+Shannon entropy of 11010101 is : 0.031209
+Shannon entropy of 1101011 is : 0.031209
+Shannon entropy of 11010110 is : 0.0298896
+Shannon entropy of 11010111 is : 0.0285545
+Shannon entropy of 11011 is : 0.04189
+Shannon entropy of 110110 is : 0.0285545
+Shannon entropy of 1101100 is : 0.029224
+Shannon entropy of 11011000 is : 0.031209
+Shannon entropy of 11011001 is : 0.0382193
+Shannon entropy of 1101101 is : 0.029224
+Shannon entropy of 11011010 is : 0.0298896
+Shannon entropy of 11011011 is : 0.031209
+Shannon entropy of 110111 is : 0.0338042
+Shannon entropy of 1101110 is : 0.0194222
+Shannon entropy of 11011100 is : 0.0325137
+Shannon entropy of 11011101 is : 0.0285545
+Shannon entropy of 1101111 is : 0.0357151
+Shannon entropy of 11011110 is : 0.0278808
+Shannon entropy of 11011111 is : 0.0265207
+Shannon entropy of 111 is : 0.0305512
+Shannon entropy of 1110 is : 0.0305512
+Shannon entropy of 11100 is : 0.0325137
+Shannon entropy of 111000 is : 0.0258339
+Shannon entropy of 1110000 is : 0.0331607
+Shannon entropy of 11100000 is : 0.0298896
+Shannon entropy of 11100001 is : 0.0357151
+Shannon entropy of 1110001 is : 0.0325137
+Shannon entropy of 11100010 is : 0.0298896
+Shannon entropy of 11100011 is : 0.0338042
+Shannon entropy of 111001 is : 0.0331607
+Shannon entropy of 1110010 is : 0.0325137
+Shannon entropy of 11100100 is : 0.029224
+Shannon entropy of 11100101 is : 0.0338042
+Shannon entropy of 1110011 is : 0.0298896
+Shannon entropy of 11100110 is : 0.0338042
+Shannon entropy of 11100111 is : 0.027203
+Shannon entropy of 11101 is : 0.0369732
+Shannon entropy of 111010 is : 0.0318631
+Shannon entropy of 1110100 is : 0.0251425
+Shannon entropy of 11101000 is : 0.0350814
+Shannon entropy of 11101001 is : 0.038838
+Shannon entropy of 1110101 is : 0.0285545
+Shannon entropy of 11101010 is : 0.031209
+Shannon entropy of 11101011 is : 0.0298896
+Shannon entropy of 111011 is : 0.0278808
+Shannon entropy of 1110110 is : 0.0305512
+Shannon entropy of 11101100 is : 0.038838
+Shannon entropy of 11101101 is : 0.029224
+Shannon entropy of 1110111 is : 0.0251425
+Shannon entropy of 11101110 is : 0.027203
+Shannon entropy of 11101111 is : 0.029224
+Shannon entropy of 1111 is : 0.0278808
+Shannon entropy of 11110 is : 0.0325137
+Shannon entropy of 111100 is : 0.0325137
+Shannon entropy of 1111000 is : 0.0265207
+Shannon entropy of 11110000 is : 0.027203
+Shannon entropy of 11110001 is : 0.0265207
+Shannon entropy of 1111001 is : 0.029224
+Shannon entropy of 11110010 is : 0.031209
+Shannon entropy of 11110011 is : 0.0305512
+Shannon entropy of 111101 is : 0.0325137
+Shannon entropy of 1111010 is : 0.029224
+Shannon entropy of 11110100 is : 0.029224
+Shannon entropy of 11110101 is : 0.0375977
+Shannon entropy of 1111011 is : 0.038838
+Shannon entropy of 11110110 is : 0.0305512
+Shannon entropy of 11110111 is : 0.0186803
+Shannon entropy of 11111 is : 0.0363457
+Shannon entropy of 111110 is : 0.0357151
+Shannon entropy of 1111100 is : 0.027203
+Shannon entropy of 11111000 is : 0.0318631
+Shannon entropy of 11111001 is : 0.0305512
+Shannon entropy of 1111101 is : 0.031209
+Shannon entropy of 11111010 is : 0.029224
+Shannon entropy of 11111011 is : 0.0338042
+Shannon entropy of 111111 is : 0.038838
+Shannon entropy of 1111110 is : 0.0208866
+Shannon entropy of 11111100 is : 0.0305512
+Shannon entropy of 11111101 is : 0.027203
+Shannon entropy of 1111111 is : 0.0208866
+Shannon entropy of 11111110 is : 0.0318631
+Shannon entropy of 11111111 is : 0.031209
+
+
+------------------------------------------
+
+
+
+------------TSALLIS ENTROPY---------------
+
+Tsallis entropy of 0 for q = 2 is : 0.999979
+Tsallis entropy of 0 for q = 3 is : 0.5
+Tsallis entropy of 0 for q = 4 is : 0.333333
+
+Tsallis entropy of 1 for q = 2 is : 0.999988
+Tsallis entropy of 1 for q = 3 is : 0.5
+Tsallis entropy of 1 for q = 4 is : 0.333333
+
+Tsallis entropy of 10 for q = 2 is : 0.999983
+Tsallis entropy of 10 for q = 3 is : 0.5
+Tsallis entropy of 10 for q = 4 is : 0.333333
+
+Tsallis entropy of 100 for q = 2 is : 0.999977
+Tsallis entropy of 100 for q = 3 is : 0.5
+Tsallis entropy of 100 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000 for q = 2 is : 0.999993
+Tsallis entropy of 1000 for q = 3 is : 0.5
+Tsallis entropy of 1000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000 for q = 2 is : 0.999985
+Tsallis entropy of 10000 for q = 3 is : 0.5
+Tsallis entropy of 10000 for q = 4 is : 0.333333
+
+Tsallis entropy of 100000 for q = 2 is : 0.999981
+Tsallis entropy of 100000 for q = 3 is : 0.5
+Tsallis entropy of 100000 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000000 for q = 2 is : 0.999986
+Tsallis entropy of 1000000 for q = 3 is : 0.5
+Tsallis entropy of 1000000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000000 for q = 2 is : 0.999989
+Tsallis entropy of 10000000 for q = 3 is : 0.5
+Tsallis entropy of 10000000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000001 for q = 2 is : 0.999985
+Tsallis entropy of 10000001 for q = 3 is : 0.5
+Tsallis entropy of 10000001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000001 for q = 2 is : 0.99999
+Tsallis entropy of 1000001 for q = 3 is : 0.5
+Tsallis entropy of 1000001 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000010 for q = 2 is : 0.999979
+Tsallis entropy of 10000010 for q = 3 is : 0.5
+Tsallis entropy of 10000010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000011 for q = 2 is : 0.999984
+Tsallis entropy of 10000011 for q = 3 is : 0.5
+Tsallis entropy of 10000011 for q = 4 is : 0.333333
+
+Tsallis entropy of 100001 for q = 2 is : 0.999991
+Tsallis entropy of 100001 for q = 3 is : 0.5
+Tsallis entropy of 100001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000010 for q = 2 is : 0.999987
+Tsallis entropy of 1000010 for q = 3 is : 0.5
+Tsallis entropy of 1000010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000100 for q = 2 is : 0.999983
+Tsallis entropy of 10000100 for q = 3 is : 0.5
+Tsallis entropy of 10000100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000101 for q = 2 is : 0.999986
+Tsallis entropy of 10000101 for q = 3 is : 0.5
+Tsallis entropy of 10000101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000011 for q = 2 is : 0.999992
+Tsallis entropy of 1000011 for q = 3 is : 0.5
+Tsallis entropy of 1000011 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000110 for q = 2 is : 0.999984
+Tsallis entropy of 10000110 for q = 3 is : 0.5
+Tsallis entropy of 10000110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10000111 for q = 2 is : 0.999978
+Tsallis entropy of 10000111 for q = 3 is : 0.5
+Tsallis entropy of 10000111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001 for q = 2 is : 0.999991
+Tsallis entropy of 10001 for q = 3 is : 0.5
+Tsallis entropy of 10001 for q = 4 is : 0.333333
+
+Tsallis entropy of 100010 for q = 2 is : 0.99998
+Tsallis entropy of 100010 for q = 3 is : 0.5
+Tsallis entropy of 100010 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000100 for q = 2 is : 0.999986
+Tsallis entropy of 1000100 for q = 3 is : 0.5
+Tsallis entropy of 1000100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001000 for q = 2 is : 0.99998
+Tsallis entropy of 10001000 for q = 3 is : 0.5
+Tsallis entropy of 10001000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001001 for q = 2 is : 0.99999
+Tsallis entropy of 10001001 for q = 3 is : 0.5
+Tsallis entropy of 10001001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000101 for q = 2 is : 0.999984
+Tsallis entropy of 1000101 for q = 3 is : 0.5
+Tsallis entropy of 1000101 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001010 for q = 2 is : 0.999986
+Tsallis entropy of 10001010 for q = 3 is : 0.5
+Tsallis entropy of 10001010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001011 for q = 2 is : 0.999981
+Tsallis entropy of 10001011 for q = 3 is : 0.5
+Tsallis entropy of 10001011 for q = 4 is : 0.333333
+
+Tsallis entropy of 100011 for q = 2 is : 0.999991
+Tsallis entropy of 100011 for q = 3 is : 0.5
+Tsallis entropy of 100011 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000110 for q = 2 is : 0.999988
+Tsallis entropy of 1000110 for q = 3 is : 0.5
+Tsallis entropy of 1000110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001100 for q = 2 is : 0.999986
+Tsallis entropy of 10001100 for q = 3 is : 0.5
+Tsallis entropy of 10001100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001101 for q = 2 is : 0.99999
+Tsallis entropy of 10001101 for q = 3 is : 0.5
+Tsallis entropy of 10001101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1000111 for q = 2 is : 0.999981
+Tsallis entropy of 1000111 for q = 3 is : 0.5
+Tsallis entropy of 1000111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001110 for q = 2 is : 0.999972
+Tsallis entropy of 10001110 for q = 3 is : 0.5
+Tsallis entropy of 10001110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10001111 for q = 2 is : 0.999978
+Tsallis entropy of 10001111 for q = 3 is : 0.5
+Tsallis entropy of 10001111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001 for q = 2 is : 0.999986
+Tsallis entropy of 1001 for q = 3 is : 0.5
+Tsallis entropy of 1001 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010 for q = 2 is : 0.999986
+Tsallis entropy of 10010 for q = 3 is : 0.5
+Tsallis entropy of 10010 for q = 4 is : 0.333333
+
+Tsallis entropy of 100100 for q = 2 is : 0.999988
+Tsallis entropy of 100100 for q = 3 is : 0.5
+Tsallis entropy of 100100 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001000 for q = 2 is : 0.999988
+Tsallis entropy of 1001000 for q = 3 is : 0.5
+Tsallis entropy of 1001000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010000 for q = 2 is : 0.99998
+Tsallis entropy of 10010000 for q = 3 is : 0.5
+Tsallis entropy of 10010000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010001 for q = 2 is : 0.999976
+Tsallis entropy of 10010001 for q = 3 is : 0.5
+Tsallis entropy of 10010001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001001 for q = 2 is : 0.999982
+Tsallis entropy of 1001001 for q = 3 is : 0.5
+Tsallis entropy of 1001001 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010010 for q = 2 is : 0.999989
+Tsallis entropy of 10010010 for q = 3 is : 0.5
+Tsallis entropy of 10010010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010011 for q = 2 is : 0.99998
+Tsallis entropy of 10010011 for q = 3 is : 0.5
+Tsallis entropy of 10010011 for q = 4 is : 0.333333
+
+Tsallis entropy of 100101 for q = 2 is : 0.999983
+Tsallis entropy of 100101 for q = 3 is : 0.5
+Tsallis entropy of 100101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001010 for q = 2 is : 0.99998
+Tsallis entropy of 1001010 for q = 3 is : 0.5
+Tsallis entropy of 1001010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010100 for q = 2 is : 0.999989
+Tsallis entropy of 10010100 for q = 3 is : 0.5
+Tsallis entropy of 10010100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010101 for q = 2 is : 0.999973
+Tsallis entropy of 10010101 for q = 3 is : 0.5
+Tsallis entropy of 10010101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001011 for q = 2 is : 0.999982
+Tsallis entropy of 1001011 for q = 3 is : 0.5
+Tsallis entropy of 1001011 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010110 for q = 2 is : 0.999985
+Tsallis entropy of 10010110 for q = 3 is : 0.5
+Tsallis entropy of 10010110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10010111 for q = 2 is : 0.999988
+Tsallis entropy of 10010111 for q = 3 is : 0.5
+Tsallis entropy of 10010111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011 for q = 2 is : 0.99998
+Tsallis entropy of 10011 for q = 3 is : 0.5
+Tsallis entropy of 10011 for q = 4 is : 0.333333
+
+Tsallis entropy of 100110 for q = 2 is : 0.999984
+Tsallis entropy of 100110 for q = 3 is : 0.5
+Tsallis entropy of 100110 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001100 for q = 2 is : 0.999984
+Tsallis entropy of 1001100 for q = 3 is : 0.5
+Tsallis entropy of 1001100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011000 for q = 2 is : 0.999979
+Tsallis entropy of 10011000 for q = 3 is : 0.5
+Tsallis entropy of 10011000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011001 for q = 2 is : 0.999991
+Tsallis entropy of 10011001 for q = 3 is : 0.5
+Tsallis entropy of 10011001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001101 for q = 2 is : 0.999984
+Tsallis entropy of 1001101 for q = 3 is : 0.5
+Tsallis entropy of 1001101 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011010 for q = 2 is : 0.999985
+Tsallis entropy of 10011010 for q = 3 is : 0.5
+Tsallis entropy of 10011010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011011 for q = 2 is : 0.999989
+Tsallis entropy of 10011011 for q = 3 is : 0.5
+Tsallis entropy of 10011011 for q = 4 is : 0.333333
+
+Tsallis entropy of 100111 for q = 2 is : 0.999981
+Tsallis entropy of 100111 for q = 3 is : 0.5
+Tsallis entropy of 100111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001110 for q = 2 is : 0.999986
+Tsallis entropy of 1001110 for q = 3 is : 0.5
+Tsallis entropy of 1001110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011100 for q = 2 is : 0.999988
+Tsallis entropy of 10011100 for q = 3 is : 0.5
+Tsallis entropy of 10011100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011101 for q = 2 is : 0.999975
+Tsallis entropy of 10011101 for q = 3 is : 0.5
+Tsallis entropy of 10011101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1001111 for q = 2 is : 0.99998
+Tsallis entropy of 1001111 for q = 3 is : 0.5
+Tsallis entropy of 1001111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011110 for q = 2 is : 0.999981
+Tsallis entropy of 10011110 for q = 3 is : 0.5
+Tsallis entropy of 10011110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10011111 for q = 2 is : 0.999988
+Tsallis entropy of 10011111 for q = 3 is : 0.5
+Tsallis entropy of 10011111 for q = 4 is : 0.333333
+
+Tsallis entropy of 101 for q = 2 is : 0.99998
+Tsallis entropy of 101 for q = 3 is : 0.5
+Tsallis entropy of 101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010 for q = 2 is : 0.999989
+Tsallis entropy of 1010 for q = 3 is : 0.5
+Tsallis entropy of 1010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100 for q = 2 is : 0.999986
+Tsallis entropy of 10100 for q = 3 is : 0.5
+Tsallis entropy of 10100 for q = 4 is : 0.333333
+
+Tsallis entropy of 101000 for q = 2 is : 0.999984
+Tsallis entropy of 101000 for q = 3 is : 0.5
+Tsallis entropy of 101000 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010000 for q = 2 is : 0.999986
+Tsallis entropy of 1010000 for q = 3 is : 0.5
+Tsallis entropy of 1010000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100000 for q = 2 is : 0.999992
+Tsallis entropy of 10100000 for q = 3 is : 0.5
+Tsallis entropy of 10100000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100001 for q = 2 is : 0.99998
+Tsallis entropy of 10100001 for q = 3 is : 0.5
+Tsallis entropy of 10100001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010001 for q = 2 is : 0.999991
+Tsallis entropy of 1010001 for q = 3 is : 0.5
+Tsallis entropy of 1010001 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100010 for q = 2 is : 0.999987
+Tsallis entropy of 10100010 for q = 3 is : 0.5
+Tsallis entropy of 10100010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100011 for q = 2 is : 0.999987
+Tsallis entropy of 10100011 for q = 3 is : 0.5
+Tsallis entropy of 10100011 for q = 4 is : 0.333333
+
+Tsallis entropy of 101001 for q = 2 is : 0.999986
+Tsallis entropy of 101001 for q = 3 is : 0.5
+Tsallis entropy of 101001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010010 for q = 2 is : 0.999982
+Tsallis entropy of 1010010 for q = 3 is : 0.5
+Tsallis entropy of 1010010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100100 for q = 2 is : 0.999978
+Tsallis entropy of 10100100 for q = 3 is : 0.5
+Tsallis entropy of 10100100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100101 for q = 2 is : 0.999981
+Tsallis entropy of 10100101 for q = 3 is : 0.5
+Tsallis entropy of 10100101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010011 for q = 2 is : 0.999979
+Tsallis entropy of 1010011 for q = 3 is : 0.5
+Tsallis entropy of 1010011 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100110 for q = 2 is : 0.999988
+Tsallis entropy of 10100110 for q = 3 is : 0.5
+Tsallis entropy of 10100110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10100111 for q = 2 is : 0.999988
+Tsallis entropy of 10100111 for q = 3 is : 0.5
+Tsallis entropy of 10100111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101 for q = 2 is : 0.999987
+Tsallis entropy of 10101 for q = 3 is : 0.5
+Tsallis entropy of 10101 for q = 4 is : 0.333333
+
+Tsallis entropy of 101010 for q = 2 is : 0.999988
+Tsallis entropy of 101010 for q = 3 is : 0.5
+Tsallis entropy of 101010 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010100 for q = 2 is : 0.99998
+Tsallis entropy of 1010100 for q = 3 is : 0.5
+Tsallis entropy of 1010100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101000 for q = 2 is : 0.999986
+Tsallis entropy of 10101000 for q = 3 is : 0.5
+Tsallis entropy of 10101000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101001 for q = 2 is : 0.999984
+Tsallis entropy of 10101001 for q = 3 is : 0.5
+Tsallis entropy of 10101001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010101 for q = 2 is : 0.999991
+Tsallis entropy of 1010101 for q = 3 is : 0.5
+Tsallis entropy of 1010101 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101010 for q = 2 is : 0.999982
+Tsallis entropy of 10101010 for q = 3 is : 0.5
+Tsallis entropy of 10101010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101011 for q = 2 is : 0.99999
+Tsallis entropy of 10101011 for q = 3 is : 0.5
+Tsallis entropy of 10101011 for q = 4 is : 0.333333
+
+Tsallis entropy of 101011 for q = 2 is : 0.99999
+Tsallis entropy of 101011 for q = 3 is : 0.5
+Tsallis entropy of 101011 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010110 for q = 2 is : 0.999986
+Tsallis entropy of 1010110 for q = 3 is : 0.5
+Tsallis entropy of 1010110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101100 for q = 2 is : 0.999988
+Tsallis entropy of 10101100 for q = 3 is : 0.5
+Tsallis entropy of 10101100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101101 for q = 2 is : 0.999986
+Tsallis entropy of 10101101 for q = 3 is : 0.5
+Tsallis entropy of 10101101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1010111 for q = 2 is : 0.999983
+Tsallis entropy of 1010111 for q = 3 is : 0.5
+Tsallis entropy of 1010111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101110 for q = 2 is : 0.999982
+Tsallis entropy of 10101110 for q = 3 is : 0.5
+Tsallis entropy of 10101110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10101111 for q = 2 is : 0.999976
+Tsallis entropy of 10101111 for q = 3 is : 0.5
+Tsallis entropy of 10101111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011 for q = 2 is : 0.999981
+Tsallis entropy of 1011 for q = 3 is : 0.5
+Tsallis entropy of 1011 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110 for q = 2 is : 0.999987
+Tsallis entropy of 10110 for q = 3 is : 0.5
+Tsallis entropy of 10110 for q = 4 is : 0.333333
+
+Tsallis entropy of 101100 for q = 2 is : 0.999991
+Tsallis entropy of 101100 for q = 3 is : 0.5
+Tsallis entropy of 101100 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011000 for q = 2 is : 0.999982
+Tsallis entropy of 1011000 for q = 3 is : 0.5
+Tsallis entropy of 1011000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110000 for q = 2 is : 0.999986
+Tsallis entropy of 10110000 for q = 3 is : 0.5
+Tsallis entropy of 10110000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110001 for q = 2 is : 0.999977
+Tsallis entropy of 10110001 for q = 3 is : 0.5
+Tsallis entropy of 10110001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011001 for q = 2 is : 0.999981
+Tsallis entropy of 1011001 for q = 3 is : 0.5
+Tsallis entropy of 1011001 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110010 for q = 2 is : 0.999979
+Tsallis entropy of 10110010 for q = 3 is : 0.5
+Tsallis entropy of 10110010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110011 for q = 2 is : 0.999988
+Tsallis entropy of 10110011 for q = 3 is : 0.5
+Tsallis entropy of 10110011 for q = 4 is : 0.333333
+
+Tsallis entropy of 101101 for q = 2 is : 0.999988
+Tsallis entropy of 101101 for q = 3 is : 0.5
+Tsallis entropy of 101101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011010 for q = 2 is : 0.999993
+Tsallis entropy of 1011010 for q = 3 is : 0.5
+Tsallis entropy of 1011010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110100 for q = 2 is : 0.999988
+Tsallis entropy of 10110100 for q = 3 is : 0.5
+Tsallis entropy of 10110100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110101 for q = 2 is : 0.999986
+Tsallis entropy of 10110101 for q = 3 is : 0.5
+Tsallis entropy of 10110101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011011 for q = 2 is : 0.999987
+Tsallis entropy of 1011011 for q = 3 is : 0.5
+Tsallis entropy of 1011011 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110110 for q = 2 is : 0.999972
+Tsallis entropy of 10110110 for q = 3 is : 0.5
+Tsallis entropy of 10110110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10110111 for q = 2 is : 0.999982
+Tsallis entropy of 10110111 for q = 3 is : 0.5
+Tsallis entropy of 10110111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111 for q = 2 is : 0.999994
+Tsallis entropy of 10111 for q = 3 is : 0.5
+Tsallis entropy of 10111 for q = 4 is : 0.333333
+
+Tsallis entropy of 101110 for q = 2 is : 0.999983
+Tsallis entropy of 101110 for q = 3 is : 0.5
+Tsallis entropy of 101110 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011100 for q = 2 is : 0.999986
+Tsallis entropy of 1011100 for q = 3 is : 0.5
+Tsallis entropy of 1011100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111000 for q = 2 is : 0.999986
+Tsallis entropy of 10111000 for q = 3 is : 0.5
+Tsallis entropy of 10111000 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111001 for q = 2 is : 0.999976
+Tsallis entropy of 10111001 for q = 3 is : 0.5
+Tsallis entropy of 10111001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011101 for q = 2 is : 0.999982
+Tsallis entropy of 1011101 for q = 3 is : 0.5
+Tsallis entropy of 1011101 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111010 for q = 2 is : 0.999978
+Tsallis entropy of 10111010 for q = 3 is : 0.5
+Tsallis entropy of 10111010 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111011 for q = 2 is : 0.999976
+Tsallis entropy of 10111011 for q = 3 is : 0.5
+Tsallis entropy of 10111011 for q = 4 is : 0.333333
+
+Tsallis entropy of 101111 for q = 2 is : 0.999982
+Tsallis entropy of 101111 for q = 3 is : 0.5
+Tsallis entropy of 101111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011110 for q = 2 is : 0.999986
+Tsallis entropy of 1011110 for q = 3 is : 0.5
+Tsallis entropy of 1011110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111100 for q = 2 is : 0.999979
+Tsallis entropy of 10111100 for q = 3 is : 0.5
+Tsallis entropy of 10111100 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111101 for q = 2 is : 0.999987
+Tsallis entropy of 10111101 for q = 3 is : 0.5
+Tsallis entropy of 10111101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1011111 for q = 2 is : 0.999985
+Tsallis entropy of 1011111 for q = 3 is : 0.5
+Tsallis entropy of 1011111 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111110 for q = 2 is : 0.999989
+Tsallis entropy of 10111110 for q = 3 is : 0.5
+Tsallis entropy of 10111110 for q = 4 is : 0.333333
+
+Tsallis entropy of 10111111 for q = 2 is : 0.999982
+Tsallis entropy of 10111111 for q = 3 is : 0.5
+Tsallis entropy of 10111111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11 for q = 2 is : 0.999983
+Tsallis entropy of 11 for q = 3 is : 0.5
+Tsallis entropy of 11 for q = 4 is : 0.333333
+
+Tsallis entropy of 110 for q = 2 is : 0.999981
+Tsallis entropy of 110 for q = 3 is : 0.5
+Tsallis entropy of 110 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100 for q = 2 is : 0.999988
+Tsallis entropy of 1100 for q = 3 is : 0.5
+Tsallis entropy of 1100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000 for q = 2 is : 0.999988
+Tsallis entropy of 11000 for q = 3 is : 0.5
+Tsallis entropy of 11000 for q = 4 is : 0.333333
+
+Tsallis entropy of 110000 for q = 2 is : 0.999985
+Tsallis entropy of 110000 for q = 3 is : 0.5
+Tsallis entropy of 110000 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100000 for q = 2 is : 0.999986
+Tsallis entropy of 1100000 for q = 3 is : 0.5
+Tsallis entropy of 1100000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000000 for q = 2 is : 0.999982
+Tsallis entropy of 11000000 for q = 3 is : 0.5
+Tsallis entropy of 11000000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000001 for q = 2 is : 0.999969
+Tsallis entropy of 11000001 for q = 3 is : 0.5
+Tsallis entropy of 11000001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100001 for q = 2 is : 0.999977
+Tsallis entropy of 1100001 for q = 3 is : 0.5
+Tsallis entropy of 1100001 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000010 for q = 2 is : 0.999983
+Tsallis entropy of 11000010 for q = 3 is : 0.5
+Tsallis entropy of 11000010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000011 for q = 2 is : 0.999983
+Tsallis entropy of 11000011 for q = 3 is : 0.5
+Tsallis entropy of 11000011 for q = 4 is : 0.333333
+
+Tsallis entropy of 110001 for q = 2 is : 0.999979
+Tsallis entropy of 110001 for q = 3 is : 0.5
+Tsallis entropy of 110001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100010 for q = 2 is : 0.999983
+Tsallis entropy of 1100010 for q = 3 is : 0.5
+Tsallis entropy of 1100010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000100 for q = 2 is : 0.999982
+Tsallis entropy of 11000100 for q = 3 is : 0.5
+Tsallis entropy of 11000100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000101 for q = 2 is : 0.99999
+Tsallis entropy of 11000101 for q = 3 is : 0.5
+Tsallis entropy of 11000101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100011 for q = 2 is : 0.99999
+Tsallis entropy of 1100011 for q = 3 is : 0.5
+Tsallis entropy of 1100011 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000110 for q = 2 is : 0.999979
+Tsallis entropy of 11000110 for q = 3 is : 0.5
+Tsallis entropy of 11000110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11000111 for q = 2 is : 0.99999
+Tsallis entropy of 11000111 for q = 3 is : 0.5
+Tsallis entropy of 11000111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001 for q = 2 is : 0.999986
+Tsallis entropy of 11001 for q = 3 is : 0.5
+Tsallis entropy of 11001 for q = 4 is : 0.333333
+
+Tsallis entropy of 110010 for q = 2 is : 0.999983
+Tsallis entropy of 110010 for q = 3 is : 0.5
+Tsallis entropy of 110010 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100100 for q = 2 is : 0.999986
+Tsallis entropy of 1100100 for q = 3 is : 0.5
+Tsallis entropy of 1100100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001000 for q = 2 is : 0.999984
+Tsallis entropy of 11001000 for q = 3 is : 0.5
+Tsallis entropy of 11001000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001001 for q = 2 is : 0.999985
+Tsallis entropy of 11001001 for q = 3 is : 0.5
+Tsallis entropy of 11001001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100101 for q = 2 is : 0.999992
+Tsallis entropy of 1100101 for q = 3 is : 0.5
+Tsallis entropy of 1100101 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001010 for q = 2 is : 0.999974
+Tsallis entropy of 11001010 for q = 3 is : 0.5
+Tsallis entropy of 11001010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001011 for q = 2 is : 0.999986
+Tsallis entropy of 11001011 for q = 3 is : 0.5
+Tsallis entropy of 11001011 for q = 4 is : 0.333333
+
+Tsallis entropy of 110011 for q = 2 is : 0.999982
+Tsallis entropy of 110011 for q = 3 is : 0.5
+Tsallis entropy of 110011 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100110 for q = 2 is : 0.999981
+Tsallis entropy of 1100110 for q = 3 is : 0.5
+Tsallis entropy of 1100110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001100 for q = 2 is : 0.999975
+Tsallis entropy of 11001100 for q = 3 is : 0.5
+Tsallis entropy of 11001100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001101 for q = 2 is : 0.999987
+Tsallis entropy of 11001101 for q = 3 is : 0.5
+Tsallis entropy of 11001101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1100111 for q = 2 is : 0.999987
+Tsallis entropy of 1100111 for q = 3 is : 0.5
+Tsallis entropy of 1100111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001110 for q = 2 is : 0.999991
+Tsallis entropy of 11001110 for q = 3 is : 0.5
+Tsallis entropy of 11001110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11001111 for q = 2 is : 0.999981
+Tsallis entropy of 11001111 for q = 3 is : 0.5
+Tsallis entropy of 11001111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101 for q = 2 is : 0.999979
+Tsallis entropy of 1101 for q = 3 is : 0.5
+Tsallis entropy of 1101 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010 for q = 2 is : 0.999988
+Tsallis entropy of 11010 for q = 3 is : 0.5
+Tsallis entropy of 11010 for q = 4 is : 0.333333
+
+Tsallis entropy of 110100 for q = 2 is : 0.999989
+Tsallis entropy of 110100 for q = 3 is : 0.5
+Tsallis entropy of 110100 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101000 for q = 2 is : 0.99999
+Tsallis entropy of 1101000 for q = 3 is : 0.5
+Tsallis entropy of 1101000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010000 for q = 2 is : 0.999977
+Tsallis entropy of 11010000 for q = 3 is : 0.5
+Tsallis entropy of 11010000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010001 for q = 2 is : 0.999982
+Tsallis entropy of 11010001 for q = 3 is : 0.5
+Tsallis entropy of 11010001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101001 for q = 2 is : 0.999986
+Tsallis entropy of 1101001 for q = 3 is : 0.5
+Tsallis entropy of 1101001 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010010 for q = 2 is : 0.999987
+Tsallis entropy of 11010010 for q = 3 is : 0.5
+Tsallis entropy of 11010010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010011 for q = 2 is : 0.999988
+Tsallis entropy of 11010011 for q = 3 is : 0.5
+Tsallis entropy of 11010011 for q = 4 is : 0.333333
+
+Tsallis entropy of 110101 for q = 2 is : 0.999985
+Tsallis entropy of 110101 for q = 3 is : 0.5
+Tsallis entropy of 110101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101010 for q = 2 is : 0.999983
+Tsallis entropy of 1101010 for q = 3 is : 0.5
+Tsallis entropy of 1101010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010100 for q = 2 is : 0.999987
+Tsallis entropy of 11010100 for q = 3 is : 0.5
+Tsallis entropy of 11010100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010101 for q = 2 is : 0.999985
+Tsallis entropy of 11010101 for q = 3 is : 0.5
+Tsallis entropy of 11010101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101011 for q = 2 is : 0.999985
+Tsallis entropy of 1101011 for q = 3 is : 0.5
+Tsallis entropy of 1101011 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010110 for q = 2 is : 0.999986
+Tsallis entropy of 11010110 for q = 3 is : 0.5
+Tsallis entropy of 11010110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11010111 for q = 2 is : 0.999988
+Tsallis entropy of 11010111 for q = 3 is : 0.5
+Tsallis entropy of 11010111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011 for q = 2 is : 0.999969
+Tsallis entropy of 11011 for q = 3 is : 0.5
+Tsallis entropy of 11011 for q = 4 is : 0.333333
+
+Tsallis entropy of 110110 for q = 2 is : 0.999988
+Tsallis entropy of 110110 for q = 3 is : 0.5
+Tsallis entropy of 110110 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101100 for q = 2 is : 0.999987
+Tsallis entropy of 1101100 for q = 3 is : 0.5
+Tsallis entropy of 1101100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011000 for q = 2 is : 0.999985
+Tsallis entropy of 11011000 for q = 3 is : 0.5
+Tsallis entropy of 11011000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011001 for q = 2 is : 0.999975
+Tsallis entropy of 11011001 for q = 3 is : 0.5
+Tsallis entropy of 11011001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101101 for q = 2 is : 0.999987
+Tsallis entropy of 1101101 for q = 3 is : 0.5
+Tsallis entropy of 1101101 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011010 for q = 2 is : 0.999986
+Tsallis entropy of 11011010 for q = 3 is : 0.5
+Tsallis entropy of 11011010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011011 for q = 2 is : 0.999985
+Tsallis entropy of 11011011 for q = 3 is : 0.5
+Tsallis entropy of 11011011 for q = 4 is : 0.333333
+
+Tsallis entropy of 110111 for q = 2 is : 0.999982
+Tsallis entropy of 110111 for q = 3 is : 0.5
+Tsallis entropy of 110111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101110 for q = 2 is : 0.999995
+Tsallis entropy of 1101110 for q = 3 is : 0.5
+Tsallis entropy of 1101110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011100 for q = 2 is : 0.999983
+Tsallis entropy of 11011100 for q = 3 is : 0.5
+Tsallis entropy of 11011100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011101 for q = 2 is : 0.999988
+Tsallis entropy of 11011101 for q = 3 is : 0.5
+Tsallis entropy of 11011101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1101111 for q = 2 is : 0.999979
+Tsallis entropy of 1101111 for q = 3 is : 0.5
+Tsallis entropy of 1101111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011110 for q = 2 is : 0.999988
+Tsallis entropy of 11011110 for q = 3 is : 0.5
+Tsallis entropy of 11011110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11011111 for q = 2 is : 0.99999
+Tsallis entropy of 11011111 for q = 3 is : 0.5
+Tsallis entropy of 11011111 for q = 4 is : 0.333333
+
+Tsallis entropy of 111 for q = 2 is : 0.999986
+Tsallis entropy of 111 for q = 3 is : 0.5
+Tsallis entropy of 111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110 for q = 2 is : 0.999986
+Tsallis entropy of 1110 for q = 3 is : 0.5
+Tsallis entropy of 1110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100 for q = 2 is : 0.999983
+Tsallis entropy of 11100 for q = 3 is : 0.5
+Tsallis entropy of 11100 for q = 4 is : 0.333333
+
+Tsallis entropy of 111000 for q = 2 is : 0.99999
+Tsallis entropy of 111000 for q = 3 is : 0.5
+Tsallis entropy of 111000 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110000 for q = 2 is : 0.999982
+Tsallis entropy of 1110000 for q = 3 is : 0.5
+Tsallis entropy of 1110000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100000 for q = 2 is : 0.999986
+Tsallis entropy of 11100000 for q = 3 is : 0.5
+Tsallis entropy of 11100000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100001 for q = 2 is : 0.999979
+Tsallis entropy of 11100001 for q = 3 is : 0.5
+Tsallis entropy of 11100001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110001 for q = 2 is : 0.999983
+Tsallis entropy of 1110001 for q = 3 is : 0.5
+Tsallis entropy of 1110001 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100010 for q = 2 is : 0.999986
+Tsallis entropy of 11100010 for q = 3 is : 0.5
+Tsallis entropy of 11100010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100011 for q = 2 is : 0.999982
+Tsallis entropy of 11100011 for q = 3 is : 0.5
+Tsallis entropy of 11100011 for q = 4 is : 0.333333
+
+Tsallis entropy of 111001 for q = 2 is : 0.999982
+Tsallis entropy of 111001 for q = 3 is : 0.5
+Tsallis entropy of 111001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110010 for q = 2 is : 0.999983
+Tsallis entropy of 1110010 for q = 3 is : 0.5
+Tsallis entropy of 1110010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100100 for q = 2 is : 0.999987
+Tsallis entropy of 11100100 for q = 3 is : 0.5
+Tsallis entropy of 11100100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100101 for q = 2 is : 0.999982
+Tsallis entropy of 11100101 for q = 3 is : 0.5
+Tsallis entropy of 11100101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110011 for q = 2 is : 0.999986
+Tsallis entropy of 1110011 for q = 3 is : 0.5
+Tsallis entropy of 1110011 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100110 for q = 2 is : 0.999982
+Tsallis entropy of 11100110 for q = 3 is : 0.5
+Tsallis entropy of 11100110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11100111 for q = 2 is : 0.999989
+Tsallis entropy of 11100111 for q = 3 is : 0.5
+Tsallis entropy of 11100111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101 for q = 2 is : 0.999977
+Tsallis entropy of 11101 for q = 3 is : 0.5
+Tsallis entropy of 11101 for q = 4 is : 0.333333
+
+Tsallis entropy of 111010 for q = 2 is : 0.999984
+Tsallis entropy of 111010 for q = 3 is : 0.5
+Tsallis entropy of 111010 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110100 for q = 2 is : 0.999991
+Tsallis entropy of 1110100 for q = 3 is : 0.5
+Tsallis entropy of 1110100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101000 for q = 2 is : 0.99998
+Tsallis entropy of 11101000 for q = 3 is : 0.5
+Tsallis entropy of 11101000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101001 for q = 2 is : 0.999974
+Tsallis entropy of 11101001 for q = 3 is : 0.5
+Tsallis entropy of 11101001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110101 for q = 2 is : 0.999988
+Tsallis entropy of 1110101 for q = 3 is : 0.5
+Tsallis entropy of 1110101 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101010 for q = 2 is : 0.999985
+Tsallis entropy of 11101010 for q = 3 is : 0.5
+Tsallis entropy of 11101010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101011 for q = 2 is : 0.999986
+Tsallis entropy of 11101011 for q = 3 is : 0.5
+Tsallis entropy of 11101011 for q = 4 is : 0.333333
+
+Tsallis entropy of 111011 for q = 2 is : 0.999988
+Tsallis entropy of 111011 for q = 3 is : 0.5
+Tsallis entropy of 111011 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110110 for q = 2 is : 0.999986
+Tsallis entropy of 1110110 for q = 3 is : 0.5
+Tsallis entropy of 1110110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101100 for q = 2 is : 0.999974
+Tsallis entropy of 11101100 for q = 3 is : 0.5
+Tsallis entropy of 11101100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101101 for q = 2 is : 0.999987
+Tsallis entropy of 11101101 for q = 3 is : 0.5
+Tsallis entropy of 11101101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1110111 for q = 2 is : 0.999991
+Tsallis entropy of 1110111 for q = 3 is : 0.5
+Tsallis entropy of 1110111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101110 for q = 2 is : 0.999989
+Tsallis entropy of 11101110 for q = 3 is : 0.5
+Tsallis entropy of 11101110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11101111 for q = 2 is : 0.999987
+Tsallis entropy of 11101111 for q = 3 is : 0.5
+Tsallis entropy of 11101111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111 for q = 2 is : 0.999988
+Tsallis entropy of 1111 for q = 3 is : 0.5
+Tsallis entropy of 1111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110 for q = 2 is : 0.999983
+Tsallis entropy of 11110 for q = 3 is : 0.5
+Tsallis entropy of 11110 for q = 4 is : 0.333333
+
+Tsallis entropy of 111100 for q = 2 is : 0.999983
+Tsallis entropy of 111100 for q = 3 is : 0.5
+Tsallis entropy of 111100 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111000 for q = 2 is : 0.99999
+Tsallis entropy of 1111000 for q = 3 is : 0.5
+Tsallis entropy of 1111000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110000 for q = 2 is : 0.999989
+Tsallis entropy of 11110000 for q = 3 is : 0.5
+Tsallis entropy of 11110000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110001 for q = 2 is : 0.99999
+Tsallis entropy of 11110001 for q = 3 is : 0.5
+Tsallis entropy of 11110001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111001 for q = 2 is : 0.999987
+Tsallis entropy of 1111001 for q = 3 is : 0.5
+Tsallis entropy of 1111001 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110010 for q = 2 is : 0.999985
+Tsallis entropy of 11110010 for q = 3 is : 0.5
+Tsallis entropy of 11110010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110011 for q = 2 is : 0.999986
+Tsallis entropy of 11110011 for q = 3 is : 0.5
+Tsallis entropy of 11110011 for q = 4 is : 0.333333
+
+Tsallis entropy of 111101 for q = 2 is : 0.999983
+Tsallis entropy of 111101 for q = 3 is : 0.5
+Tsallis entropy of 111101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111010 for q = 2 is : 0.999987
+Tsallis entropy of 1111010 for q = 3 is : 0.5
+Tsallis entropy of 1111010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110100 for q = 2 is : 0.999987
+Tsallis entropy of 11110100 for q = 3 is : 0.5
+Tsallis entropy of 11110100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110101 for q = 2 is : 0.999976
+Tsallis entropy of 11110101 for q = 3 is : 0.5
+Tsallis entropy of 11110101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111011 for q = 2 is : 0.999974
+Tsallis entropy of 1111011 for q = 3 is : 0.5
+Tsallis entropy of 1111011 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110110 for q = 2 is : 0.999986
+Tsallis entropy of 11110110 for q = 3 is : 0.5
+Tsallis entropy of 11110110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11110111 for q = 2 is : 0.999996
+Tsallis entropy of 11110111 for q = 3 is : 0.5
+Tsallis entropy of 11110111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111 for q = 2 is : 0.999978
+Tsallis entropy of 11111 for q = 3 is : 0.5
+Tsallis entropy of 11111 for q = 4 is : 0.333333
+
+Tsallis entropy of 111110 for q = 2 is : 0.999979
+Tsallis entropy of 111110 for q = 3 is : 0.5
+Tsallis entropy of 111110 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111100 for q = 2 is : 0.999989
+Tsallis entropy of 1111100 for q = 3 is : 0.5
+Tsallis entropy of 1111100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111000 for q = 2 is : 0.999984
+Tsallis entropy of 11111000 for q = 3 is : 0.5
+Tsallis entropy of 11111000 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111001 for q = 2 is : 0.999986
+Tsallis entropy of 11111001 for q = 3 is : 0.5
+Tsallis entropy of 11111001 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111101 for q = 2 is : 0.999985
+Tsallis entropy of 1111101 for q = 3 is : 0.5
+Tsallis entropy of 1111101 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111010 for q = 2 is : 0.999987
+Tsallis entropy of 11111010 for q = 3 is : 0.5
+Tsallis entropy of 11111010 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111011 for q = 2 is : 0.999982
+Tsallis entropy of 11111011 for q = 3 is : 0.5
+Tsallis entropy of 11111011 for q = 4 is : 0.333333
+
+Tsallis entropy of 111111 for q = 2 is : 0.999974
+Tsallis entropy of 111111 for q = 3 is : 0.5
+Tsallis entropy of 111111 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111110 for q = 2 is : 0.999994
+Tsallis entropy of 1111110 for q = 3 is : 0.5
+Tsallis entropy of 1111110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111100 for q = 2 is : 0.999986
+Tsallis entropy of 11111100 for q = 3 is : 0.5
+Tsallis entropy of 11111100 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111101 for q = 2 is : 0.999989
+Tsallis entropy of 11111101 for q = 3 is : 0.5
+Tsallis entropy of 11111101 for q = 4 is : 0.333333
+
+Tsallis entropy of 1111111 for q = 2 is : 0.999994
+Tsallis entropy of 1111111 for q = 3 is : 0.5
+Tsallis entropy of 1111111 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111110 for q = 2 is : 0.999984
+Tsallis entropy of 11111110 for q = 3 is : 0.5
+Tsallis entropy of 11111110 for q = 4 is : 0.333333
+
+Tsallis entropy of 11111111 for q = 2 is : 0.999985
+Tsallis entropy of 11111111 for q = 3 is : 0.5
+Tsallis entropy of 11111111 for q = 4 is : 0.333333
+
